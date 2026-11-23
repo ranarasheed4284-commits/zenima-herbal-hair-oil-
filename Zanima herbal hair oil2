@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jainima Herbal Hair Oil</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f1e5;
+    color: #26452e;
+    text-align: center;
+}
+
+header {
+    background: #183d29;
+    color: white;
+    padding: 25px 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+.hero {
+    padding: 35px 20px;
+}
+
+.hero img {
+    width: 90%;
+    max-width: 400px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px #999;
+}
+
+h2 {
+    font-size: 30px;
+    color: #244c31;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.buy-btn {
+    display: inline-block;
+    background: #1e663b;
+    color: white;
+    padding: 16px 40px;
+    text-decoration: none;
+    border-radius: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.buy-btn:hover {
+    background: #bd963e;
+}
+
+footer {
+    background: #183d29;
+    color: white;
+    padding: 20px;
+    margin-top: 40px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Jainima Herbal</h1>
+    <p>Natural Beauty • Herbal Care</p>
+</header>
+
+<section class="hero">
+
+<img src="https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80"
+alt="Herbal Hair Oil">
+
+<h2>Jainima Herbal Hair Oil</h2>
+
+<p>
+اپنے بالوں کی دیکھ بھال قدرتی انداز میں!<br>
+Jainima Herbal Hair Oil کے ساتھ
+<br>
+قدرتی خوبصورتی اور بالوں کی بہترین دیکھ بھال۔
+</p>
+
+<a class="buy-btn"
+href="https://wa.me/923038924773?text=Assalamualaikum%2C%20mujhe%20Jainima%20Herbal%20Hair%20Oil%20order%20karna%20hai"
+target="_blank">
+BUY NOW
+</a>
+
+</section>
+
+<footer>
+<p>Jainima Herbal Hair Oil</p>
+<p>Order on WhatsApp: 03038924773</p>
+</footer>
+
+</body>
+</html>
